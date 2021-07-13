@@ -1,5 +1,6 @@
 ## 前言
-本仓库的知识点和文章主要用于个人复习和作知识点总结使用，部分内容参考自`github项目/网络资料/书籍`和[个人博客](https://www.armcv.cn/)等，由于时间和能力有限，有些知识点其实掌握得还不够深和全面, 我推荐额外阅读以下 `github` 仓库项目（有些已经停止更新, 当作参考）
+
+本仓库的知识点和文章主要用于个人复习和作知识点总结使用，部分内容参考自`github项目/网络资料/书籍`资料和[个人博客](http://www.armcvai.com/)等，由于时间和精力有限，有些知识点还没有没有完成, 所以我推荐额外阅读以下 `github` 仓库项目来进行补充阅读（有些已经停止更新, 当作参考）。
 
 > 强调一下如何从“零”起步，首先确保基础打好。建议完整修完一门国外经典课程（从课程视频、作业到项目），然后完整阅读一本机器学习或者深度学习教科书，同时熟练掌握一门基本的编程语言以及深度学习框架。参考[中国人民大学赵鑫：AI 科研入坑指南](https://mp.weixin.qq.com/s/UH7UIq7ajwpdR6fZ9CfG6Q)。
 
@@ -8,11 +9,23 @@
 + [CS-Notes](https://github.com/CyC2018/CS-Notes)
 + [用动画的形式呈现解LeetCode题目的思路](https://github.com/MisterBooo/LeetCodeAnimation)
 
+## 深度学习面试题
+
+> 深度学习基础的一些面试题和 `Python` 编程相关的面试题，部分题目来源网上资料。
+
++ [深度学习面试题](https://github.com/HarleysZhang/2020_algorithm_intern_information/blob/master/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%9F%BA%E7%A1%80.md)
++ [Python 编程面试题](https://github.com/HarleysZhang/2020_algorithm_intern_information/blob/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80/Python-Shell%20%E5%9F%BA%E7%A1%80.md)
+
+## CV 知识点
+
+![CV算法工程师 掌握知识点](./images/CV算法工程师应掌握知识点.png)
+
 ## 算法/图像/CS基础/编程语言(`RoadMap`)
+
+> GitHub 无法直接阅读公式，建议在谷歌浏览器安装 `MathJax Plugin for Github` 插件访问，或者下载仓库到本地，使用 `Typora` 软件阅读，也可以使用安装了 `Markdown+Math` 插件的 `vscode` 软件阅读。
 
 + [计算机基础](https://github.com/HarleysZhang/2019_algorithm_intern_information/tree/master/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80)
 + [数据结构与算法](https://github.com/HarleysZhang/2019_algorithm_intern_information/tree/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95)
-+ [数字图像处理](https://github.com/HarleysZhang/2019_algorithm_intern_information/tree/master/%E6%95%B0%E5%AD%97%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86)
 + [编程语言](https://github.com/HarleysZhang/2019_algorithm_intern_information/tree/master/%E7%BC%96%E7%A8%8B%E8%AF%AD%E8%A8%80)
 + [机器学习](https://github.com/HarleysZhang/2019_algorithm_intern_information/tree/master/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0)
 + [深度学习](https://github.com/HarleysZhang/2019_algorithm_intern_information/tree/master/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0)
@@ -36,7 +49,7 @@
 |平安科技|计算机视觉实习生|北京/深圳|3.19|[网申](http://campus.pingan.com/tech/position)|内推码：PvqgIB|无|牛客讨论区|
 |抖音火山|计算机视觉算法实习生|北京/其他|未知|[网申](https://job.bytedance.com/campus/position)|内推码：QURKAW2|无|牛客讨论区|
 |招银网络科技|算法实习生|深圳/杭州/成都/|6.30|[网申](https://mp.weixin.qq.com/s/7l6GZ88yynwb3jwRhx76KA)|内推码：9171XYCD、9211LYCD|无|牛客讨论区|
-|奇虎360|算法实习生|北京/其他|3.31|[网申](http://chrcmp.chinahr.com/views/2019-qihu360/index.html)|内推码：暂无|无|牛客讨论区|
+|奇虎360|算法/安全/研发实习生|北京/苏州/其他|3.31|[网申](http://chrcmp.chinahr.com/views/2019-qihu360/index.html)|内推码：暂无|无|牛客讨论区|
 |爱奇艺|C++开发工程师|北京|4月中旬|[网申](https://zhaopin.iqiyi.com/job-school.html)|内推码：zNG4KR|无|信息学院qq群|
 |蚂蚁金服|算法实习生|杭州/其他|3-5月|邮箱：xiaoxue.sxx@antfin.com|邮件标题：【姓名】+【学校】+【应聘岗位】|无|信息学院qq群|
 |华为|算法实习生|成都/其他|3月28|[网申](http://career.huawei.com/reccampportal/campus4_index.html#campus4/pages/joblist/jobList.html?jobFamClsCode=JFC1&type=0)|无|无|信息学院qq群|
@@ -58,8 +71,6 @@
 |最右|视频图像算法工程师实习|北京|未知|内推邮箱:sunhaiyong2014@xiaochuankeji.cn|简历命名格式：CVer推荐+姓名+电话+社招/校招/实习|CVer公众号|
 |爱奇艺智能平台部-视频分析组|视频理解算法实习生|北京中关村|未知|内推邮箱:zhangyuntao@qiyi.com|简历命名格式：CVer推荐+学校+研究方向+实习开始时间+毕业时间|CVer公众号|
 |依图科技|校招、实习、社招|上海、北京、杭州|长期|![依图科技-校招内推](images/依图科技-校招内推.png)|微信扫描二维码（长期有效），链接中的岗位均可投递||
-
-## [深度学习面试题](https://github.com/HarleysZhang/2019_algorithm_intern_information/blob/master/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0/%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E9%9D%A2%E8%AF%95%E9%A2%98.md)
 
 ## 2020年校招可投递公司-计算机视觉/机器学习算法工程师
 
@@ -97,7 +108,7 @@
 |无|同花顺/老虎证券|星环科技|中科创达|否|
 |无|乐信/有赞|趋势科技|恒润科技|否|
 |无|金蝶软件(中国)|暗物智能DMAI|航天二院706所|否|
-|无|汽车之家|第四范式(有毁约风险)|吉利汽车|否|
+|无|汽车之家|第四范式|吉利汽车|否|
 |无|珍爱网/酷狗音乐|云从科技|碧桂园机器人|否|
 |无|巨人网络/盛大游戏|酷家乐|华米/绿米|无|
 |无|最右/快看漫画|码隆科技||无|
